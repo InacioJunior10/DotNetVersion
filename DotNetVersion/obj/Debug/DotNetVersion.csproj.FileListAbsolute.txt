@@ -1,0 +1,7 @@
+C:\Users\iampj\Desktop\Teste\DotNetVersion\DotNetVersion\bin\Debug\DotNetVersion.exe.config
+C:\Users\iampj\Desktop\Teste\DotNetVersion\DotNetVersion\bin\Debug\DotNetVersion.exe
+C:\Users\iampj\Desktop\Teste\DotNetVersion\DotNetVersion\bin\Debug\DotNetVersion.pdb
+C:\Users\iampj\Desktop\Teste\DotNetVersion\DotNetVersion\obj\Debug\DotNetVersion.csprojAssemblyReference.cache
+C:\Users\iampj\Desktop\Teste\DotNetVersion\DotNetVersion\obj\Debug\DotNetVersion.csproj.CoreCompileInputs.cache
+C:\Users\iampj\Desktop\Teste\DotNetVersion\DotNetVersion\obj\Debug\DotNetVersion.exe
+C:\Users\iampj\Desktop\Teste\DotNetVersion\DotNetVersion\obj\Debug\DotNetVersion.pdb

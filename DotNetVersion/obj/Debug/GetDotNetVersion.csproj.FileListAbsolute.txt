@@ -1,0 +1,14 @@
+C:\Users\iampj\Desktop\Teste\DotNetVersion\DotNetVersion\bin\Debug\DotNetVersion.exe.config
+C:\Users\iampj\Desktop\Teste\DotNetVersion\DotNetVersion\bin\Debug\DotNetVersion.exe
+C:\Users\iampj\Desktop\Teste\DotNetVersion\DotNetVersion\bin\Debug\DotNetVersion.pdb
+C:\Users\iampj\Desktop\Teste\DotNetVersion\DotNetVersion\obj\Debug\GetDotNetVersion.csprojAssemblyReference.cache
+C:\Users\iampj\Desktop\Teste\DotNetVersion\DotNetVersion\obj\Debug\GetDotNetVersion.csproj.CoreCompileInputs.cache
+C:\Users\iampj\Desktop\Teste\DotNetVersion\DotNetVersion\obj\Debug\DotNetVersion.exe
+C:\Users\iampj\Desktop\Teste\DotNetVersion\DotNetVersion\obj\Debug\DotNetVersion.pdb
+D:\Área de Trabalho\Teste\DotNetVersion\DotNetVersion\bin\Debug\DotNetVersion.exe.config
+D:\Área de Trabalho\Teste\DotNetVersion\DotNetVersion\bin\Debug\DotNetVersion.exe
+D:\Área de Trabalho\Teste\DotNetVersion\DotNetVersion\bin\Debug\DotNetVersion.pdb
+D:\Área de Trabalho\Teste\DotNetVersion\DotNetVersion\obj\Debug\GetDotNetVersion.csprojAssemblyReference.cache
+D:\Área de Trabalho\Teste\DotNetVersion\DotNetVersion\obj\Debug\GetDotNetVersion.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Teste\DotNetVersion\DotNetVersion\obj\Debug\DotNetVersion.exe
+D:\Área de Trabalho\Teste\DotNetVersion\DotNetVersion\obj\Debug\DotNetVersion.pdb
